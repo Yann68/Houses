@@ -1,6 +1,6 @@
 name: Houses
 main: me.yake.Houses2.Houses
-version: 1.3.3
+version: 2.0
 authors: [Yake]
 commands:
     houses:
