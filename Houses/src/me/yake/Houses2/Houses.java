@@ -26,7 +26,6 @@ import com.nijikokun.bukkit.Permissions.Permissions;
 public class Houses extends JavaPlugin{
 	
 	public static Houses plugin;
-    public Method economy;
 	private static CuboidSelection csel;
 	//Gets the logger
 	public final Logger log = Logger.getLogger("Minecraft");
